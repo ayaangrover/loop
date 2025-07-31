@@ -1,8 +1,9 @@
 # Loop — Minimal MP3 Player
 
+Loop is a compact MP3 player that's designed to be simple and portable.
+
 <img width="2739" height="1565" alt="loop" src="https://github.com/user-attachments/assets/7fd040f8-69f4-421e-a94f-8499ab7ea348" />
 
-Loop is a compact MP3 player that's designed to be simple and portable.
 
 ## Features
 
