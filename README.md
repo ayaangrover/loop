@@ -1,5 +1,7 @@
 # Loop — Minimal MP3 Player
 
+<img width="2739" height="1565" alt="loop" src="https://github.com/user-attachments/assets/7fd040f8-69f4-421e-a94f-8499ab7ea348" />
+
 Loop is a compact MP3 player that's designed to be simple and portable.
 
 ## Features
@@ -33,6 +35,8 @@ Loop is a compact MP3 player that's designed to be simple and portable.
 ## Enclosure
 
 Designed in Fusion 360. Available in ```./case```.
+
+<img width="4000" height="3000" alt="case" src="https://github.com/user-attachments/assets/67832805-1829-483b-9654-b6d69a3db7e6" />
 
 ## Firmware
 
