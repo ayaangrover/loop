@@ -1,4 +1,8 @@
+<div align="center">
+
 # Loop: Compact MP3 Player
+
+</div>
 
 Loop is a compact MP3 player that's designed to be simple and portable.
 
@@ -23,6 +27,7 @@ Loop is a compact MP3 player that's designed to be simple and portable.
 | DFPlayer | Amazon | $10 |
 | TP4056 | AliExpress | $2 |
 | M2 Screws | Aliexpress | $2 |
+| M2 Heatset Inserts | Aliexpress | $2 |
 | LiPo Battery | Amazon (900mAh) | $8 |
 | Audio Jack | LCSC | $0.50 + $11 shipping |
 | Buttons (x3) | LCSC | $0.60(same shipping as the audio jack) |
@@ -31,7 +36,7 @@ Loop is a compact MP3 player that's designed to be simple and portable.
 | PCB | JLCPCB | $31 |
 | Case | Printed via Hack Club `#printing-legion` | Free |
 
-**Total: either $66.51 or $81.51(speakers are optional)**
+**Total: $83.51**
 
 ## Enclosure
 

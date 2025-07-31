@@ -1,4 +1,11 @@
-# Journal: Loop - 40 hrs
+---
+title: "Loop"
+author: "Ayaan Grover"
+description: "Loop is a compact MP3 player that's designed to be simple and portable."
+created_at: "2025-07-31"
+---
+
+# Journal: Loop - 41 hrs
 
 ## July 12, 2025 - 3 hrs
 Did a bit of plannning and research today. Here's what i ended up with:
@@ -59,28 +66,32 @@ also did some budget stuff:
 
 ## Parts List
 
-| Component        | Source           | Price |
-|------------------|------------------|-------|
-| DFPlayer | Amazon | $10   |
-| TP4056 | AliExpress | $2    |
+| Component | Source | Price |
+|-----------|--------|-------|
+| DFPlayer | Amazon | $10 |
+| TP4056 | AliExpress | $2 |
+| M2 Screws | Aliexpress | $2 |
+| M2 Heatset Inserts | Aliexpress | $2 |
 | LiPo Battery | Amazon (900mAh) | $8 |
 | Audio Jack | LCSC | $0.50 + $11 shipping |
 | Buttons (x3) | LCSC | $0.60(same shipping as the audio jack) |
 | Resistors | LCSC | $1.41(same shipping as the audio jack) |
-| Speaker (x2, optional) | Adafruit | $15 |
-| PCB | JLCPCB | $31   |
+| Speaker (x2) | Adafruit | $15 |
+| PCB | JLCPCB | $31 |
 | Case | Printed via Hack Club `#printing-legion` | Free |
 
-**Total:**
-- With speakers: **$79.51**
-- Without speakers: **$64.51**
+**Total: $83.51**
 
 ## July 30 - 0.5 hr
 made the readme!
 
 ## July 30 - 2 hrs
-redid the pcb for an extra button using ADKEY1 and 3 resistors. now it has play/pause, next/volup, and prev/voldn. remade the renders
+redid the pcb for an extra button using ADKEY1 and 3 resistors. now it has play/pause, next/volup, and prev/voldn.
+
+## July 30 - 1 hr
+
+polished the case and uploaded to github!
 
 ## July 30 - 0.5 hr
 
-polished the case and uploaded to github!
+finished and submitted the project!
