@@ -1,4 +1,4 @@
-# Loop — Minimal MP3 Player
+# Loop: Compact MP3 Player
 
 Loop is a compact MP3 player that's designed to be simple and portable.
 
