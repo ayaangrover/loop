@@ -2,7 +2,7 @@
 title: "Loop"
 author: "Ayaan Grover"
 description: "Loop is a compact MP3 player that's designed to be simple and portable."
-created_at: "2025-07-31"
+created_at: "2025-07-12"
 ---
 
 # Journal: Loop - 41 hrs
