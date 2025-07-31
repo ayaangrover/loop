@@ -42,6 +42,9 @@ redid the case - made the case like a sleeve that you slide onto it for travel a
 ## July 17 - 3 hrs
 made a hybrid of the two prev case versions where the sleeve is for the holder for the pcb.
 
+<img width="278" height="358" alt="CleanShot 2025-07-31 at 14 47 53@2x" src="https://github.com/user-attachments/assets/9de23922-42fd-4bba-8f12-17cc740ec7ad" />
+
+
 ## July 29 - 3 hours
 edited the previous version of the case, uses tiny magnets now - its a desk mp3 player so no need for stability. cleaned it up in fusion and made a quick render.
 
@@ -76,7 +79,7 @@ also did some budget stuff:
 made the readme!
 
 ## July 30 - 2 hrs
-redid the pcb for an extra button using ADKEY1 and 3 resistors. now it has play/pause, next/volup, and prev/voldn.
+redid the pcb for an extra button using ADKEY1 and 3 resistors. now it has play/pause, next/volup, and prev/voldn. remade the renders
 
 ## July 30 - 0.5 hr
 
