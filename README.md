@@ -35,8 +35,9 @@ Loop is a compact MP3 player that's designed to be simple and portable.
 | Speaker (x2) | Adafruit | $15 |
 | PCB | JLCPCB | $31 |
 | Case | Printed via Hack Club `#printing-legion` | Free |
+| MicroSD(high endurance but cheap) | Amazon | $7 |
 
-**Total: $83.51**
+**Total: $90.51**
 
 ## Enclosure
 
