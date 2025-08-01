@@ -37,6 +37,9 @@ Spent a ton of time figuring out the wiring. i have everything except the TRRS j
 ## July 15, 2025 - 2 hrs
 spent some time figuring out the TRRS jack, got some help from friends, and i have what i think may be the correct way to do this. it looks right but i'll have to check again later. i also figured out that i'm not going to have an extender for the b+/b- because i dont know what size traces to put and i would rather not mess it up. Also decided to not add spdt a switch for speaker/headphones. i can leave the headphone jack on always and you can add speakers yourself. so i just added a spdt which im using as an spst for the power.
 
+<img width="565" height="592" alt="image" src="https://github.com/user-attachments/assets/bc8e09ea-e3e3-464d-9bcc-859bc822a9d6" />
+
+
 ## July 15 - 5 hours
 did the layout and wiring and redid it multiple times and now i feel good about it. took so long bc i kept moving stuff around...at least its done now
 
