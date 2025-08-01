@@ -22,22 +22,21 @@ Loop is a compact MP3 player that's designed to be simple and portable.
 
 ## Parts List
 
-| Component | Source | Price |
-|-----------|--------|-------|
-| DFPlayer | Amazon | $10 |
-| TP4056 | AliExpress | $2 |
-| M2 Screws | Aliexpress | $2 |
-| M2 Heatset Inserts | Aliexpress | $2 |
-| LiPo Battery | Amazon (900mAh) | $8 |
-| Audio Jack | LCSC | $0.50 + $11 shipping |
-| Buttons (x3) | LCSC | $0.60(same shipping as the audio jack) |
-| Resistors | LCSC | $1.41(same shipping as the audio jack) |
-| Speaker (x2) | Adafruit | $15 |
-| PCB | JLCPCB | $31 |
-| Case | Printed via Hack Club `#printing-legion` | Free |
-| MicroSD(high endurance but cheap) | Amazon | $7 |
-
-**Total: $90.51**
+| Component           | Source                                | Price   |
+|---------------------|----------------------------------------|---------|
+| DFPlayer            | Amazon                                 | $10.00  |
+| TP4056              | AliExpress                             | $2.00   |
+| M2 Screws           | Aliexpress                             | $2.00   |
+| M2 Heatset Inserts  | Aliexpress                             | $2.00   |
+| LiPo Battery        | Amazon (900mAh)                        | $8.00   |
+| Audio Jack          | LCSC                                   | $11.50  |
+| Buttons (x3)        | LCSC                                   | $0.60   |
+| Resistors           | LCSC                                   | $1.41   |
+| Speaker (x2)        | Aliexpress                             | $1.90   |
+| PCB                 | JLCPCB                                 | $31.00  |
+| Case                | Printed via Hack Club #printing-legion | Free    |
+| MicroSD Card        | Aliexpress                             | $3.00   |
+| **Total**           | —                                      | **$73.41** |
 
 ## Enclosure
 
