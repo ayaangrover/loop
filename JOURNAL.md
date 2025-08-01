@@ -63,7 +63,10 @@ redid the case bc it looked ugly before. now it uses screws instead of magnets a
 
 also remade the renders. split the components and the pcb this time so it looks cool. 
 
-also cleaned it up in figma for the readme. now it has a nice cover image.
+also cleaned it up in figma for the readme. now it has a nice cover image. here it is:
+
+<img width="2739" height="1565" alt="loop" src="https://github.com/user-attachments/assets/53bf9739-6fe4-47e0-b458-aaeea849af56" />
+
 
 also did some budget stuff:
 
@@ -96,7 +99,10 @@ redid the pcb for an extra button using ADKEY1 and 3 resistors. now it has play/
 
 ## July 30 - 1 hr
 
-polished the case and uploaded to github!
+polished the case and uploaded to github! also made some more renders
+
+<img width="4000" height="3000" alt="case" src="https://github.com/user-attachments/assets/2f4929f9-8d42-409f-8903-a03705ff48f1" />
+
 
 ## July 30 - 0.5 hr
 
