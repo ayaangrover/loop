@@ -88,6 +88,9 @@ made the readme!
 ## July 30 - 2 hrs
 redid the pcb for an extra button using ADKEY1 and 3 resistors. now it has play/pause, next/volup, and prev/voldn.
 
+<img width="592" height="624" alt="CleanShot 2025-08-01 at 06 46 19@2x" src="https://github.com/user-attachments/assets/0d5122d1-4872-479b-9f2f-0c17b59128bb" />
+
+
 ## July 30 - 1 hr
 
 polished the case and uploaded to github!
